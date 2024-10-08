@@ -1,3 +1,3 @@
-# Model objects are in the folder models.
-# Program to call these models and make predictions in the new data are aviable in the folder Programs.
-# Covariates used to define the variables are in the folder definitions.
+# Models can be used to predict cardiovascular outcomes (as defined in the manuscript) using Medicare or other claims data.
+# Both LASSO and XG-boost models could be used.
+# Models were separately developed in populations with and without baseline CVD (as defined in the manuscript).
